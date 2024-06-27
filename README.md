@@ -4,7 +4,9 @@ A partir do df BostonHousing.csv que contém informações de casa, e seus respe
 
 # MODELING TECHNIQUES
 1.Regressão Linear do sklearn
+
 2.Support Vector Regression do sklearn
+
 3.Decision Tree Regression do XGBOOST
 
 # Considerações finais:
