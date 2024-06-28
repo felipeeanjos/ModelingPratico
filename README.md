@@ -9,5 +9,8 @@ A partir do df BostonHousing.csv que contém informações de casa, e seus respe
 
 3.Decision Tree Regression do XGBOOST
 
-# Considerações finais:
+# AVALIAÇÃO DO MODELO:
 O modelo nesse caso que melhor performou foi o Decision Tree Regression do XGBOOST, com MSE: 13.35 e RMSE: 3.65
+
+# OTIMIZAÇÃO DE HIPERPARÂMETROS
+Utilizando o GridSearchCV do SKLEARN, vamos encontrar os melhores hiperparâmetros para o modelo que melhor performou.
